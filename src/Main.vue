@@ -2,5 +2,5 @@
 </script>
 
 <template>
-  <div>HELLO WORLDdasda</div>
+  <div>HOLA MUNDO</div>
 </template>
