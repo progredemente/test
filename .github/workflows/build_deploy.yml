@@ -1,3 +1,4 @@
+run-name: Build and deploy ${{ inputs.deploy_target }} by @${{ github.actor }}
 name: Build and deploy
 
 on:
